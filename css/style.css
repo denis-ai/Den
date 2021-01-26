@@ -23,7 +23,6 @@ body {
     font-weight: 30px;
   letter-spacing: 8px ;
   animation: text 3s 1 ;
-
 }
 .t1 {
     animation: uk-text-shadow-glitch .65s cubic-bezier(.25, .46, .45, .9399999999999999) both infinite;
@@ -49,7 +48,6 @@ body {
 
 
 
-}
 .wrapper {
     padding-left: 15px;
     padding-right: 15px;
